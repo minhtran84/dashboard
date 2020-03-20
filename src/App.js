@@ -1,12 +1,17 @@
 import React from 'react';
 import './App.css';
 
+import Nagigation from './components/Navigation';
+import SimpleCart from './components/SimpleCard';
+
 class App extends React.Component {
 
   render() {
     return (
-      <div class="container-fluid"> 
-      
+      <div className="App">
+        
+          <Nagigation />
+        
       </div>
     );
   }
