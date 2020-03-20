@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Dashboard App using React and Bootstrap!
+          Congratulation! You've successfully sync local repository to GitHub Pages repository. Enjoy!
         </p>
         <a
           className="App-link"
