@@ -35,13 +35,11 @@ class DoughnutCard extends React.Component {
                         className="doughnutcard_body"
                     />
 
-                    <div>
+                    {/* <div> */}
                         {/* <canvas height="408" width="816" className="chartcard_body"></canvas> */}
 
-            
                         {/* <canvas data-bs-chart="{style="display: block; height: 204px; width: 408px;" width="306" height="153" ></canvas> */}
-
-                    </div>
+                    {/* </div> */}
                 </div>
             </div>
         );

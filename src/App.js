@@ -3,6 +3,7 @@ import './App.css';
 
 import Nagigation from './components/Navigation';
 import DoughnutCard from './components/DoughnutCard';
+import BarCard from './components/BarCard';
 
 class App extends React.Component {
 
@@ -19,7 +20,7 @@ class App extends React.Component {
                     <DoughnutCard header="Mức độ hài lòng" />
                 </div>
                 <div class="col-md-6">
-                    {/* <ChartCard header="Hồ sơ trực tuyến" /> */}
+                    <BarCard header="Hồ sơ trực tuyến"/>
                 </div>
             </div>
           </div>
