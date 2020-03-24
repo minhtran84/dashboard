@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/footer.css';
+import '../styles/Footer-Dark.css';
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
@@ -10,7 +10,7 @@ class Footer extends React.Component {
 
     render() {
         return (
-            <div class="footer-dark" className="custom_footer">
+            <div className="footer-dark">
                 <footer>
                     <div class="container">
                         <div class="row">
