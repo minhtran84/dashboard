@@ -62,7 +62,7 @@ class ProCard extends React.Component {
 
     render() {
         return (
-            <div class="card" className="procard">
+            <div class="card" className="procard mb-3">
                 <div class="card-header">
                     <h4 className="procard_header">{this.props.header}</h4>
                 </div>

@@ -20,7 +20,7 @@ class Navigation extends React.Component {
                            "color": "rgb(134,136,151)"
                        }}
                     >
-                        Trung tâm Phục vụ hành chính công tỉnh Sóc Trăng</a>                    
+                        Trung tâm PVHCC tỉnh Sóc Trăng</a>                    
                 </div>
             </nav>
         );

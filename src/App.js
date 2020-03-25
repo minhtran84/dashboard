@@ -17,7 +17,7 @@ class App extends React.Component {
           <Nagigation />
 
           <div>{/* start First Row  */}
-            <div class="container mt-3 mb-3">
+            <div class="container">
                 <div class="row">
                     <div class="col-md-4">
                         <SimpleCard header="Tổng số TTHC" number="1089" icon="faFileAlt"/>
@@ -33,7 +33,7 @@ class App extends React.Component {
           </div>{/* end First Row  */}
 
           <div>{/* start Second Row  */}
-            <div class="container mb-3">
+            <div class="container">
                 <div class="row">
                     <div class="col-md-6">
                         <ProCard header="Tình hình xử lý HS" number="11725" cardType="tinhhinhxl" />
@@ -46,7 +46,7 @@ class App extends React.Component {
           </div>{/* end Second Row */}
 
           <div>{/* start Third Row  */}
-            <div class="container mb-3">
+            <div class="container">
               <div class="row">
                   <div class="col-md-6">
                       <DoughnutCard header="Mức độ hài lòng" />

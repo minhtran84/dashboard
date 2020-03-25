@@ -6,7 +6,7 @@ class DoughnutCard extends React.Component {
 
     render() {
         return (
-            <div class="card" className="doughnutcard">
+            <div class="card" className="doughnutcard mb-3">
                 <div class="card-header">
                     <h4 className="doughnutcard_header">{this.props.header}</h4>
                 </div>

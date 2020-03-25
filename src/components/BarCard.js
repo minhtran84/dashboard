@@ -6,7 +6,7 @@ class BarCard extends React.Component {
     
     render() {
         return (
-            <div class="card" className="barcard">
+            <div class="card" className="barcard mb-3">
                 <div class="card-header">
                     <h4 className="barcard_header">{this.props.header}</h4>
                 </div>

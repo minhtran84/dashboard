@@ -30,7 +30,7 @@ class SimpleCard extends React.Component {
 
     render() {
         return (
-            <div class="card" className="simplecard">
+            <div class="card" className="simplecard mb-3">
                 <div class="card-header">
                     <h4 className="simplecard_header">{this.props.header}</h4>
                 </div>
